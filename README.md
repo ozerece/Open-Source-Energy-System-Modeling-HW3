@@ -20,4 +20,4 @@ limitations under the License.
 
 ## Description
 
-Analyses can be seen the Open Source Energy System Modeling- HW3.ipynb file.
+Analyses can be found in the HW3.ipynb file.
